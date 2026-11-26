@@ -1,7 +1,7 @@
 """Entry for make.fun: Till Firmware Do Us Part.
 
 One robot wedding vow in a single sentence: cached laughs,
-defragged bad days, and devotion that survives the firmware.
+defragged bad days, and a devotion that survives every firmware.
 """
 import os
 
